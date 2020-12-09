@@ -1,0 +1,1 @@
+mongodb+srv://class:None2933@cluster0.9olyl.mongodb.net/db1?retryWrites=true&w=majority
